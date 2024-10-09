@@ -1,0 +1,19 @@
+{
+  "name": "langchainjs-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.8",
+    "@langchain/google-vertexai": "^0.1.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.2"
+  }
+}
